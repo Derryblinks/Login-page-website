@@ -25,3 +25,7 @@ Enter your registered email and password.
 </li>
 <li> Click the "Login" button.</li>
 </ul>
+
+<h4>Sign-Up</h4>
+Enter a valid email and password.
+Click the "Sign Up" button.
